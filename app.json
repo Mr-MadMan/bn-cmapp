@@ -6,9 +6,10 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "scheme": "bncmapp",
     "extra": {
       "eas": {
-        "projectId": "ae157a00-4b13-4459-bfb1-f3d4050eebdb"
+        "projectId": "8beb758f-ad18-4684-a434-b3dbe60e43ca"
       }
     }
   },

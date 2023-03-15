@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "bn-cmapp",
+    "slug": "bn-cmapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ae157a00-4b13-4459-bfb1-f3d4050eebdb"
+      }
+    }
+  },
+  "name": "bn-cmapp"
+}
